@@ -7,5 +7,7 @@ my website helps people who need financial managing services and learn about it.
 
 People can learn about basic fianancial, investment and accounting knowledge with our courses which are a one-time pay like UDemy.
 
+This website is made using wordpress on web app service and QnA AI
+
 {I have almost no knowledge about coding, so if my project looks mediocore or basic please don't mind}
 thank you
