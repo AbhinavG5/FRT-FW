@@ -1,4 +1,4 @@
-# FRT-FW
+# FRT-FinanceWay
 This is my Microsoft and NASSCOM's "Future Ready Talent" project repository
 
 My Project is a website called FinanceWay
